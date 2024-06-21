@@ -1,16 +1,23 @@
-# iasd_adult_app
+<p align="center" width="100%">
+    <img width="15%" src="https://raw.githubusercontent.com/josvillegas/before-push/main/resources/img/logo/logo.png">
+</p>
 
-A new Flutter project.
+<div align="center">
+    <h1>Grand App IASD</h1>
+    <p>
+    Propuesta de aplicación móvil esclusiva para el adulto mayor de la IASD que contiene las opciones básicas o necesarias en uno solo lugar y de fácil uso
+    </p>
+    
+![Flutter Badge](https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white)
+![Dart Badge](https://img.shields.io/badge/Dart-teal?logo=dart)
 
-## Getting Started
+</div>
 
-This project is a starting point for a Flutter application.
+<p align="center" width="100%">
+    <img width="70%" src="https://raw.githubusercontent.com/josvillegas/before-push/main/resources/img/iasdgrand/IASDGrand.png">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [**Flutter**](https://dart.dev/) - Libreria de código abierto desarrollado por Google
+- [**Dart**](https://flutter.dev/) - Lenguaje de programación para aplicaciones multiplataforma
